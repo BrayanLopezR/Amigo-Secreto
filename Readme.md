@@ -41,8 +41,7 @@ El proyecto "Amigo Secreto" es una aplicación web simple que permite a los usua
 
 ### 1. Agregar nombres
 
-![Agregar amigos](![Lista_de_aMIGOS](https://github.com/user-attachments/assets/be31a116-645f-4efa-b1da-f2441499093d)
-)
+![Agregar amigos]()
 
 ### 2. Lista de amigos
 
