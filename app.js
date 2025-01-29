@@ -33,3 +33,7 @@ function seleccionarAmigoAleatorio(amigos) {
     const indiceAleatorio = Math.floor(Math.random() * amigos.length);
     return amigos[indiceAleatorio];
   }
+
+  // esto es una prueba a ver que pex
+
+  let lolAlas11
