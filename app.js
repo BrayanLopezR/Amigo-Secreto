@@ -25,6 +25,14 @@ function mostrarListaAmigos(){
 
 }
 
+function sortearAmigo() {
+    const amigoAleatorio = seleccionarAmigoAleatorio(nombresAmigos);
+    const resultadoElement = document.getElementById("resultado");
+    resultadoElement.textContent = "El amigo secreto es: " + amigoAleatorio;
+}
+
+
+
 function seleccionarAmigoAleatorio(amigos) {
     if (!Array.isArray(amigos) || amigos.length === 0) {
       return "No hay amigos en la lista."; 
@@ -32,8 +40,6 @@ function seleccionarAmigoAleatorio(amigos) {
   
     const indiceAleatorio = Math.floor(Math.random() * amigos.length);
     return amigos[indiceAleatorio];
-  }
+}
 
-  // esto es una prueba a ver que pex
-
-  let lolAlas11
+  
