@@ -45,11 +45,11 @@ El proyecto "Amigo Secreto" es una aplicación web simple que permite a los usua
 
 ### 2. Lista de amigos
 
-![Lista de amigos](![Image](https://github.com/user-attachments/assets/12f0726e-9f74-43de-b375-2ab914a1e8fb))
+![Image alt](https://github.com/BrayanLopezR/Amigo-Secreto/blob/31416217befae324176840ab08133e0f7758d524/Lista_de_aMIGOS.png)
 
 ### 3. Resultado del sorteo
 
-![Resultado sorteo](![Image](https://github.com/user-attachments/assets/814f4987-f7dc-42f3-b5c5-d4abbbb312fe))
+![Image alt](https://github.com/BrayanLopezR/Amigo-Secreto/blob/31416217befae324176840ab08133e0f7758d524/Resultado_sorteo.png)
 
 ## Requisitos
 
